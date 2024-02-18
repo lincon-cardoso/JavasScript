@@ -1,0 +1,1 @@
+console.log(typeof "Trabalhando com listas");
